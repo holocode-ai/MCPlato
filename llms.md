@@ -107,16 +107,6 @@ Points are deducted based on model usage and task complexity. Unused points roll
 
 Full pricing details: [Pricing](https://mcplato.com/en/pricing/)
 
-## Technical Details
-
-- **Technology Stack**: Electron, React 18, TypeScript, Tailwind CSS
-- **AI Models**: Claude (Anthropic), ChatGPT (OpenAI), Gemini (Google), and more — automatically selected per task
-- **MCP Support**: Full Model Context Protocol integration, 2,000+ skill integrations available
-- **Database**: SQLite with Drizzle ORM for local data storage
-- **Terminal**: Integrated PTY (pseudo-terminal) with node-pty + xterm.js
-- **Build System**: electron-vite + Vite 5
-- **Security**: Local-first execution, 4 permission levels, no cloud upload required
-
 ## System Requirements
 
 - macOS 12.0 or later (Apple Silicon or Intel)
